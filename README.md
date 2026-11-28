@@ -8,7 +8,7 @@ I build small, focused open-source tools for Linux gaming, desktop hardware and 
 | --- | --- |
 | [**DSB — Deadlock Server Blocker**](https://github.com/Zyd93/deadlock-server-blocker-DSB) | Pick which Deadlock server regions you match into by blocking Valve relay IPs in your firewall. Linux (GTK4) and Windows. |
 | [**ATTACK SHARK R6 Linux**](https://github.com/Zyd93/attackshark-r6-linux) | Open-source Linux driver, GUI and CLI for the ATTACK SHARK R6 gaming mouse: DPI, polling rate, button remapping and macros — no vendor software needed. |
-| [**ytm-rs for Android**](https://github.com/Zyd93/ytm-rs) | An unofficial Android port of [ytm-rs](https://github.com/grapedjuice/ytm-rs), the native Rust YouTube Music app: synced karaoke lyrics, music videos, themes and downloads on your phone. [Download the APK](https://github.com/Zyd93/ytm-rs/releases/tag/android-1.0.0). |
+| [**Enormeer ytm-rs**](https://github.com/Zyd93/enormeer-ytm-rs) | YouTube Music in a fast, native Rust app, now on Android: plays the music on your phone too, keeps going on battery saver, with synced karaoke lyrics, music videos, themes and downloads. Based on [ytm-rs](https://github.com/grapedjuice/ytm-rs). [Download the APK](https://github.com/Zyd93/enormeer-ytm-rs/releases/latest). |
 
 ### Tools I use
 
